@@ -24,19 +24,23 @@ Ores:
 - Uranium (Void)
 - Amethyst (Void)
 - Shadow Ore (Void)
+
 Dimension Items:
 - Void Ingot (Crafted to make a void block)
 - Void Block (Crafted to make a compacted void block)
 - Compacted Void Block (PLaced in a 3x3 like-grid to travel to the Void)
 - Shadow Crystal (Crafted into Shadow Dimention Transporter)
+
 Boimes:
 - Redwood Forest
 - Tropical Forest
 - Rain Forest (NOT the Jungle boime)
+
 Structures:
 - Indian Village (Plains)
 - Cavern (Void)
 - Castle (Overworld)
+
 Armor and Tool Sets:
 - Ruby Armor Set (With Tools)
 - Sapphire Armor Set (With Tools)
@@ -46,6 +50,7 @@ Armor and Tool Sets:
 - Demi-God Armor Set
 - Dark Shadow Armor Set (With Tools)
 - God Armor Set (With Tools)
+
 Collectable Items:
 - Ruby
 - Sapphire
@@ -72,4 +77,5 @@ Collectable Items:
 - Void Enchantment Table
 - Shadow Enchantment Table
 - God Enchantment Table
+
 And much, much, MUCH more to come...
